@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/hossarlyk.loc.iml" filepath="$PROJECT_DIR$/.idea/hossarlyk.loc.iml" />
+      <module fileurl="file://D:/pensionny/obrabotka/.idea/obrabotka.iml" filepath="D:/pensionny/obrabotka/.idea/obrabotka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../turkmenenjam.loc/.idea/turkmenenjam.loc.iml" filepath="$PROJECT_DIR$/../turkmenenjam.loc/.idea/turkmenenjam.loc.iml" />
+    </modules>
+  </component>
+</project>

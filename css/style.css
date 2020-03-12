@@ -327,3 +327,8 @@
 a.primary-btn:hover {
     color: #7892fe !important;
 }
+
+.mar-left {
+    margin-left: 10%;
+    text-transform: none;
+}
